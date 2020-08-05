@@ -1,0 +1,86 @@
+nav .container_fluid {
+    display: block;
+    float: right;
+    margin-top: 3px;
+    margin-right: 18px;
+    font-size: 14px;
+}
+
+nav .container_fluid a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+.btn {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 3px;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    height: 30px;
+    width: 73px;
+}
+
+.section_2 {
+    display: block;
+    text-align: center;
+    margin-top: 170px;
+    margin-bottom: 210px;
+}
+.search {
+    margin-bottom: 10px;
+    height: 47px;
+    width: 600px;
+    border-radius:25px;
+    border: 1px solid ;
+    color: silver;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.container-fluid{
+    background-color: rgb(239, 239, 239);
+    margin: 0;
+}
+.footer_link {
+    background-color: rgb(239, 239, 239);
+    display: block;
+    padding: 15px;
+}
+.footer_right {
+    display: block;
+    float: right;
+} 
+.footer_link a {
+    text-decoration: none;
+    color:gray;
+    padding: 12px;
+    font-weight: 400;
+    font-size: 14px;
+}
+hr {
+    color: rgb(239, 239, 239);
+    border:  silver, solid 1px;
+    width: 100%;
+}
+.google_lan {
+    font-size: 14px;
+}
+.google_lan a {
+    text-decoration: none;
+    color: slateblue;
+    padding: 5px;
+}
+.container_fluid a:hover, a:hover {
+    text-decoration: underline;
+}
+a .nig {
+    width: 600px;
+    height: 50px;
+}
