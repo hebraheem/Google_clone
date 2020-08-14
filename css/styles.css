@@ -1,3 +1,9 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
 nav .container_fluid {
     display: block;
     float: right;
